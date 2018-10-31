@@ -7,11 +7,10 @@ C# assignment at Coding Dojo.
 Instructions: 
 
 1. Create a class called "Card"
-
-2. Give the Card class a property "stringVal" which will hold the value of the card ex. (Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King). This "val" should be a string.
-3. Give the Card a property "suit" which will hold the suit of the card (Clubs, Spades, Hearts, Diamonds).
-4. Give the Card a property "val" which will hold the numerical value of the card 1-13 as integers.
-5. Next, create a class called "Deck"
+   - Give the Card class a property "stringVal" which will hold the value of the card ex. (Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen,        King). This "val" should be a string.
+   - Give the Card a property "suit" which will hold the suit of the card (Clubs, Spades, Hearts, Diamonds).
+   - Give the Card a property "val" which will hold the numerical value of the card 1-13 as integers.
+   - Next, create a class called "Deck"
 
 1. Give the Deck class a property called "cards" which is a list of Card objects.
 
