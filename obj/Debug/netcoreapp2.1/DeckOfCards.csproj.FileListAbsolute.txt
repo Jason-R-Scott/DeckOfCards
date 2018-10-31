@@ -1,0 +1,11 @@
+C:\Users\jason\C#\OOP\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.deps.json
+C:\Users\jason\C#\OOP\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.runtimeconfig.json
+C:\Users\jason\C#\OOP\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\jason\C#\OOP\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.dll
+C:\Users\jason\C#\OOP\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.pdb
+C:\Users\jason\C#\OOP\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\jason\C#\OOP\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\jason\C#\OOP\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\jason\C#\OOP\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\jason\C#\OOP\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.dll
+C:\Users\jason\C#\OOP\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.pdb
